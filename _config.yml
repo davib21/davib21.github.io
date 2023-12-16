@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Davi"
+title                    : "Davi's Homepage"
 title_separator          : "-"
 name                     : &name "Davi"
 description              : &description "Undergraduate Student at Bioprocess and Biotechnology Engineering"
