@@ -83,11 +83,11 @@ author:
   name             : "Davi"
   avatar           : "profile.png"
   bio              : "Bioprocess and Biotechnology Student"
-  location         : "Location"
+  location         : "São Paulo, Botucatu, Brasil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "davi.pacifico@unesp.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "davib21"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/davib2104?igshid=OGQ5ZDc2ODk2ZA=="
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm           : "https://www.last.fm/user/davib_21"
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "legobiology"
   vine             :
   weibo            :
   xing             :
