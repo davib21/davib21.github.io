@@ -11,14 +11,14 @@ redirect_from:
 
 About Me
 ======
-I'm an undergraduate student at Bioprocess and Biotechonology Engineering, at the School of Agricultural Sciences - Unesp - Botucatu, Brasil.
+I'm an undergraduate student at Bioprocess and Biotechnology Engineering, at the School of Agricultural Sciences - Unesp - Botucatu, Brasil.
 
-I also own a certificate in Biotechonology, received along the high school degree at the Federal Institute of Tocantins.
+I also own a certificate in Biotechnology, received along the high school degree at the Federal Institute of Tocantins.
 
 Studies, Research and Interests
 ======
 
-As an undergrad student at an Engineering focused at Biological Systems, I'm currently interested in themes such as Genectic Engineering, Synthetic Biology, Electrochemical Sensors and Biosensors. Apart of my specific area, I'm also delighted by themes from mathematics, astronomy and physics.
+As an undergrad student at an Engineering course focused at Biological Systems, I'm currently interested in themes such as Genectic Engineering, Synthetic Biology, Electrochemical Sensors and Biosensors. Apart of my specific area, I'm also delighted by themes from mathematics, astronomy and physics.
 
 Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory Course for University Entrance Exams of the School Of Agricultural Sciences (Unesp, Brasil).
 
