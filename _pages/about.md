@@ -15,7 +15,7 @@ I'm an undergraduate student at Bioprocess and Biotechonology Engineering, at th
 
 I also own a certificate in Biotechonology, received along the high school degree at the Federal Institute of Tocantins.
 
-Studies, Researchs and Interests
+Studies, Research and Interests
 ======
 
 As an undergrad student at an Engineering focused at Biological Systems, I'm currently interested in themes such as Genectic Engineering, Synthetic Biology, Electrochemical Sensors and Biosensors. Apart of my specific area, I'm also delighted by themes from mathematics, astronomy and physics.
