@@ -13,7 +13,7 @@ About Me
 ======
 I'm an undergraduate student at Bioprocess and Biotechnology Engineering, at the School of Agricultural Sciences - Unesp - Botucatu, Brasil.
 
-I also own a certificate in Biotechnology, received along the high school degree at the Federal Institute of Tocantins.
+I also own a certificate in Biotechnology, which I received along with my high school degree at the Federal Institute of Tocantins.
 
 Studies, Research and Interests
 ======
