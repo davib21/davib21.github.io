@@ -33,7 +33,7 @@ Awards and Recognition
 - Silver Medalist at Brazilian's Biotechonology Olympiad, 2022.
 - Golden Medalist at National Science Olympiad, 2021.
 - Golden Medalist at National Science Olympiad, 2022.
-- Honorable Mention at Biogenesis, Biomedicine Olympiad (Cellular and Molecular Biology Categorie), 2022.
+- Honorable Mention at Biogenesis, Biomedicine Olympiad (Cellular and Molecular Biology Category), 2022.
 - Golden Medalist at Tocantins Chemistry Olympiad, 2022.
 - Bronze Medalist at Brazilian's Physics Olympiad for Public Schools, 2022.
 - Golden Medalist at Brazilian's Astronomy Olympiad, 2022.
