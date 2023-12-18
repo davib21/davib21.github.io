@@ -30,7 +30,7 @@ Awards and Recognition
 - Bronze Medalist at British Biology Olympiad, 2023.
 - Golden Medalist at Brazilian's Synthetic Biology Olympiad, 2022.
 - Golden Medalist at Brazilian's Synthetic Biology Olympiad, 2021.
-- Silver Medalist at Brazilian's Biotechonology Olympiad, 2022.
+- Silver Medalist at Brazilian's Biotechnology Olympiad, 2022.
 - Golden Medalist at National Science Olympiad, 2021.
 - Golden Medalist at National Science Olympiad, 2022.
 - Honorable Mention at Biogenesis, Biomedicine Olympiad (Cellular and Molecular Biology Category), 2022.
