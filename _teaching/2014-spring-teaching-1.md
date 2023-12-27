@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Tutoring in Mathematics"
 collection: teaching
-type: "Undergraduate course"
+type: "College Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "IFTO, Campus Araguaína"
+date: 2022
+location: "Tocantins, Brasil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This was a tutoring project accomplished with scholarship at the Federal Institute of Tocantins. The main goal of the project was to help students with their studies to the university entrance exams with lectures focused on solving problems and exercises that contribute to their knowledge.
 
 Heading 1
 ======
