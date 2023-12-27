@@ -4,7 +4,7 @@ collection: teaching
 type: "College Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "IFTO, Campus Araguaína"
-date: 2022
+date: 2022-01-01
 location: "Tocantins, Brasil"
 ---
 
