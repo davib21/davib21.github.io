@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Physics III (University Entrance Exams Level)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "FCA - Unesp, Cursinho Raizes"
+date: 2023-01-01
+location: "São Paulo, Brasil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is an extension project at the São Paulo State University where undergrad students give lectures for public school students to help with their studies for the university entrance exams.
 
-Heading 1
-======
+My lectures are focused at the fundamental concepts of electromagnetism and at solving classical problems that appear at the exams. My main goal is to expose the topics and help the students to really understand what they're facing, helping them to develop analytical abilities to solve the questions they're asked by the exams.
 
-Heading 2
+Lecture Notes
 ======
-
-Heading 3
-======
+The Lecture Notes are avaible at the section of Lecture Notes.
