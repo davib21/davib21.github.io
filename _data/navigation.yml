@@ -2,4 +2,6 @@
 main:    
   - title: "CV"
     url: http://lattes.cnpq.br/1116869654268474
-  
+
+  - title: "Teaching"
+    url: /teaching/
