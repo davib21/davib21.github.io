@@ -1,7 +1,7 @@
 ---
 title: "Physics III (University Entrance Exams Level)"
 collection: teaching
-type: "Workshop"
+type: "College Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "FCA - Unesp, Cursinho Raizes"
 date: 2023-01-01
