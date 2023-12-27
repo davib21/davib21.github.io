@@ -25,6 +25,8 @@ As I'll discuss later, I was also really interested at education, and I was plea
 
 I've also participated at multiple events, and I would like to mention the Week of Synthetic Biology at the Sao Paulo University (promoted by the Sao Paulo University IGEM Team) which I was invited at 2021 and 2022, and participated at the 2022 edition, the Tocantins Exposure of Science and Technology (Viva Ciência), where I participated at 2022 (category: Behavioral Sciences) with an economics project, where me and my team received 3 first place awards (poster, article and presentation), and at 2023 while evaluating projects (category: Biochemistry and Bioengineering).
 
+At the end of my college degree, I was admitted at multiple Universities through the entrance exams and also with olympiad medals (in courses such as engineering and biomedicine), including the Sao Paulo University (USP), Campinas University (Unicamp) and the Sao Paulo State University (Unesp).
+
 As an undergrad student at an Engineering course focused at Biological Systems, I'm currently interested in themes such as Genectic Engineering, Synthetic Biology, Electrochemical Sensors and Biosensors. Apart from my specific area, I'm also delighted by themes from mathematics, astronomy and physics.
 
 Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory Course for University Entrance Exams of the School Of Agricultural Sciences (Unesp, Brasil).
