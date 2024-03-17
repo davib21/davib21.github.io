@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Davi's Homepage"
 title_separator          : "-"
 name                     : &name "Davi"
-description              : &description "Undergraduate Student at Bioprocess and Biotechnology Engineering"
+description              : &description "Undergraduate Student at Medicine"
 url                      : https://davib21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davib21/davib21.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Davi"
   avatar           : "IMG-20230105-WA0014.jpg"
-  bio              : "Bioprocess and Biotechnology Engineering Student"
+  bio              : "Medicine Student"
   location         : "São Paulo, Botucatu, Brasil"
   employer         :
   pubmed           : 
