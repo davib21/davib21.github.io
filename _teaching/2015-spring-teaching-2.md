@@ -2,7 +2,7 @@
 title: "Physics III (University Entrance Exams Level)"
 collection: teaching
 type: "College Course"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2015-spring-teaching-1
 venue: "FCA - Unesp, Cursinho Raizes"
 date: 2023-01-01
 location: "São Paulo, Brasil"
