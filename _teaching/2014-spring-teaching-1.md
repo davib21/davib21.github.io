@@ -12,4 +12,4 @@ This was a tutoring project accomplished with scholarship at the Federal Institu
 
 Lecture Notes
 ======
-The lecture notes I actually used are not avaible for this course, although similar ones may be found at the class notes section.
+The lecture notes are not avaible for this course.
