@@ -14,4 +14,4 @@ My lectures are focused at the fundamental concepts of electromagnetism and at s
 
 Lecture Notes
 ======
-The Lecture Notes are avaible at the section of Lecture Notes.
+The updated Lecture Notes (from 2024) are avaible at the section of Lecture Notes.
