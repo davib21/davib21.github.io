@@ -2,7 +2,7 @@
 title: "Tutoring in Mathematics"
 collection: teaching
 type: "College Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/monitoria IFTO
 venue: "IFTO, Campus Araguaína"
 date: 2022-01-01
 location: "Tocantins, Brasil"
