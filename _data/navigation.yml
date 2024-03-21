@@ -1,22 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Short CV"
+    url: https://drive.google.com/file/d/1YqdJ-2IMMHqaTy8Z3rb4LRBb_3SWP0-w/view?usp=sharing
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "CV"
+    url: http://lattes.cnpq.br/1116869654268474     
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Lecture Notes"
+    url: https://drive.google.com/drive/folders/12bkEmCUcnJnoja3H8tvCslYWmL6QsNWB?usp=sharing
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  
