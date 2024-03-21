@@ -1,10 +1,11 @@
 # main links links
 main:    
+ - title: "CV"
+    url: http://lattes.cnpq.br/1116869654268474
+ 
  - title: "Short CV"
     url: https://drive.google.com/file/d/1YqdJ-2IMMHqaTy8Z3rb4LRBb_3SWP0-w/view?usp=sharing
   
-  - title: "CV"
-    url: http://lattes.cnpq.br/1116869654268474
 
   - title: "Teaching"
     url: /teaching/
