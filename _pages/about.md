@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ======
-I'm an undergraduate student at Medicine, at the Medical School (FMB) of São Paulo State University - Unesp - Botucatu, Brasil.
+I'm a medical student, at the Medical School (FMB) of São Paulo State University - Unesp - Botucatu, Brasil.
 
 I also own a certificate in Biotechnology, which I received along with my high school degree at the Federal Institute of Tocantins.
 
