@@ -15,7 +15,7 @@ About Me
 
  <p style="text-align: justify;"> I also own a certificate in Biotechnology, which I received along with my high school degree at the Federal Institute of Tocantins.
 
- <p style="text-align: justify;"> Studies, Research and Interests
+Studies, Research and Interests
 ======
  <p style="text-align: justify;"> My journey as a student started at college. I studied Biotechnology (Technician Level) along with the high school, at the Federal Institute of Tocantins when I received all the basis for my formation, participated (and received awards) at Olympiads and Scientific Events and attended to lectures that helped me to discover my interests, such as Biochemistry, Molecular Biology and Genectics.
 
