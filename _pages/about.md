@@ -15,8 +15,8 @@ About Me
 
  <p style="text-align: justify;"> I also own a certificate in Biotechnology, which I received along with my high school degree at the Federal Institute of Tocantins.
 
-Studies, Research and Interests
-======
+<b> Studies, Research and Interests
+
  <p style="text-align: justify;"> My journey as a student started at college. I studied Biotechnology (Technician Level) along with the high school, at the Federal Institute of Tocantins when I received all the basis for my formation, participated (and received awards) at Olympiads and Scientific Events and attended to lectures that helped me to discover my interests, such as Biochemistry, Molecular Biology and Genectics.
 
  <p style="text-align: justify;"> Talking in details about my first contact with serious studies, I've made research at the field of Astronautics, with scholarship provided by the CNPQ (with the Rio de Janeiro State University), and also worked at a project locally at the Federal Institute of Tocantins, focused to develop an alcohool recipient that minimized the contact with health professionals at hospitals in order to contain the transmission of diseases.
@@ -29,9 +29,10 @@ Studies, Research and Interests
 
  <p style="text-align: justify;"> Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory Course for University Entrance Exams of the School Of Agricultural Sciences (Unesp, Brasil).
 
-Awards and Recognition
-======
+<p style="text-align: justify;"> <b> Awards and Recognition
 
+
+<p style="text-align: justify;">
 - Golden Medalist at Brazilian's Biology Olympiad, 2022.
 - Merit Certificate at the Brazilian's Biology Olympiad International Selection, 2022. (Between the best 25 high school students at biology in Brazil).
 - Bronze Medalist at the British Biology Olympiad, 2023.
