@@ -25,7 +25,7 @@ At the end of my college degree, I was admitted at multiple Universities through
 
 As an undergrad student focused at Medical Sciences, I'm currently interested in themes that combine hard and clinical sciences. Apart from my specific area, I'm also an enthusiast of mathematics.
 
-Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory Course for University Entrance Exams of the School Of Agricultural Sciences (Unesp, Brasil), and biochemistry tutor at the Medical School (Unesp, Brasil).
+Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory Course for University Entrance Exams of the School Of Agricultural Sciences (Unesp, Brasil), and biochemistry as a tutor at the Medical School (Unesp, Brasil).
 
 Awards and Recognition 
 ======
