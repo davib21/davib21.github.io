@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "Short CV"
-    url: https://drive.google.com/file/d/1YqdJ-2IMMHqaTy8Z3rb4LRBb_3SWP0-w/view?usp=sharing
+  #- title: "Short CV"
+    #url: https://drive.google.com/file/d/1YqdJ-2IMMHqaTy8Z3rb4LRBb_3SWP0-w/view?usp=sharing
 
   - title: "CV"
     url: http://lattes.cnpq.br/1116869654268474     
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+   # url: /teaching/    
     
-  - title: "Lecture Notes"
-    url: https://drive.google.com/drive/folders/12bkEmCUcnJnoja3H8tvCslYWmL6QsNWB?usp=sharing
+ # - title: "Lecture Notes"
+  #  url: https://drive.google.com/drive/folders/12bkEmCUcnJnoja3H8tvCslYWmL6QsNWB?usp=sharing
 
-  - title: "Books"
-    url: https://drive.google.com/drive/folders/1nSiySI7G_NwEqVFW8Ck8MJZhlr61395-?usp=sharing
+ # - title: "Books"
+   # url: https://drive.google.com/drive/folders/1nSiySI7G_NwEqVFW8Ck8MJZhlr61395-?usp=sharing
         
 
