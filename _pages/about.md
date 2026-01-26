@@ -23,7 +23,7 @@ Talking in details about my first contact with serious studies, I've made resear
 
 At the end of my college degree, I was admitted at multiple Universities through the entrance exams and also with olympiad medals (in courses such as engineering, biomedicine and medicine), including the Sao Paulo University (USP), Campinas University (Unicamp) and the Sao Paulo State University (Unesp).
 
-As an undergrad student focused at Medical Sciences, I'm currently interested in themes that combine hard and clinical sciences. Apart from my specific area, I'm also an enthusiast of mathematics.
+Even as an undergraduate student focused on Medical Sciences, I have developed strong academic interests at the intersection of exact and biological sciences, especially applied mathematics and statistics, while also being deeply interested in Internal Medicine, Biochemistry, and Pathology.
 
 Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory Course for University Entrance Exams of the School Of Agricultural Sciences (Unesp, Brasil), and biochemistry as a tutor at the Medical School (Unesp, Brasil).
 
