@@ -29,9 +29,10 @@ Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory
 
 Awards and Recognition 
 ======
+- Honorable Mention at Brazilian's Neuroscience Olympiad 3rd phase, 2025. (Among the top 20 students in the competition).
 - Honorable Mention at Brazilian's Neuroscience Olympiad and Brazilian's Physiology Olympiad 1st phase, 2025.
 - Golden Medalist at Brazilian's Biology Olympiad, 2022.
-- Merit Certificate at the Brazilian's Biology Olympiad International Selection, 2022. (Between the best 25 high school students at biology in Brazil).
+- Merit Certificate at the Brazilian's Biology Olympiad International Selection, 2022. (Among the top 25 high school students in biology in Brazil).
 - Bronze Medalist at the British Biology Olympiad, 2023.
 - Golden Medalist at Brazilian's Synthetic Biology Olympiad, 2022.
 - Golden Medalist at Brazilian's Synthetic Biology Olympiad, 2021.
