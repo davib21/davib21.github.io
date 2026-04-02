@@ -7,7 +7,7 @@ author_profile: true
 
 ## 📚 Lecture Notes
 
-Here you can find my lecture notes, organized by subject.
+Here you can find my lecture notes, organized by subject. Most of them are in PT-BR.
 
 ---
 
