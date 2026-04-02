@@ -25,6 +25,14 @@ Here you can find my lecture notes, organized by subject.
 
 ---
 
+### Physics - Electricity and Magnetism
+
+- **Introdução ao Estudo das Funções** [Slides](https://drive.google.com/file/d/1z99VrMhIxtrvwTSbkkd_cdRF5Rvmwo_Q/view?usp=drive_link)
+
+- **Introdução à Eletrostática** [Slides](https://drive.google.com/file/d/14aXj5M6wZdxKN6p_YkV3mL0UE74mhs4a/view?usp=drive_link) [Notas de Aula](https://drive.google.com/file/d/1VIA7jd2m_NCkof0fpIZMSMx6p3ldfaRA/view?usp=drive_link) [Lista de Exercícios](https://drive.google.com/file/d/1KnCswI7tAYL8hK6hCEqki7z2Q9G1LrCR/view?usp=drive_link)
+
+---
+
 ## 📄 About
 
 All notes are written by me and continuously updated.
