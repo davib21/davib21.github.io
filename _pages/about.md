@@ -25,7 +25,7 @@ At the end of my college degree, I was admitted at multiple Universities through
 
 Even as an undergraduate student focused on Medical Sciences, I have developed strong academic interests at the intersection of exact and biological sciences, especially applied mathematics and statistics, while also being deeply interested in Internal Medicine, Biochemistry, and Pathology.
 
-Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory Course for University Entrance Exams of the School Of Agricultural Sciences (Unesp, Brasil), and biochemistry as a tutor at the Medical School (Unesp, Brasil).
+Nowadays, I'm teaching Physics III (Electromagnetism) at the Popular Preparatory Course for University Entrance Exams of the School Of Agricultural Sciences (Unesp, Brasil), and pathology as a tutor at the Medical School (Unesp, Brasil).
 
 Awards and Recognition 
 ======
@@ -48,9 +48,10 @@ Awards and Recognition
 
 Events
 ======
+- Botucatu Academic Medical Congress (2026), Organization
 - Botucatu Academic Medical Congress (2025), Organization
 - Workshop of Bioprocess and Biotechnology Engineering (2025), Organization
 - Workshop of Bioprocess and Biotechnology Engineering (2024), Organization
-- Tocantins Exposure of Science and Technology - Viva Ciência (2023), Evaluation (Category: Chemistry and Biochemistry, Bioengineering and Materials Science)
+- Tocantins Exposure of Science and Technology - Viva Ciência (2024), Evaluation (Category: Chemistry and Biochemistry, Bioengineering and Materials Science)
 - Tocantins Exposure of Science and Technology - Viva Ciência (2023), Evaluation (Category: Biochemistry and Bioengineering)
 - Tocantins Exposure of Science and Technology - Viva Ciência (2022), Presentation (Category: Behavioral Sciences)
