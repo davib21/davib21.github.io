@@ -21,7 +21,7 @@ Here you can find my lecture notes, organized by subject. Most of them are in PT
 
 ### Math and Statistics
 
-- **K-means** [Notas de Estudo](https://drive.google.com/file/d/10QK_eWd7O0WoHF7CjzS3t_R5RdQIe1LE/view?usp=drive_link)
+- **K-means** [Notas de Aula](https://drive.google.com/file/d/10QK_eWd7O0WoHF7CjzS3t_R5RdQIe1LE/view?usp=drive_link)
 
 ---
 
@@ -31,6 +31,7 @@ Here you can find my lecture notes, organized by subject. Most of them are in PT
 
 - **Introdução à Eletrostática** [Slides](https://drive.google.com/file/d/14aXj5M6wZdxKN6p_YkV3mL0UE74mhs4a/view?usp=drive_link) [Notas de Aula](https://drive.google.com/file/d/1VIA7jd2m_NCkof0fpIZMSMx6p3ldfaRA/view?usp=drive_link) [Lista de Exercícios](https://drive.google.com/file/d/1KnCswI7tAYL8hK6hCEqki7z2Q9G1LrCR/view?usp=drive_link)
 
+- **Fundamentos da Eletrostática** [Slides](https://drive.google.com/file/d/16-AXMmbqxmSSmrM8boiLB3H0jNJq42Wm/view?usp=sharing) [Notas de Aula](https://drive.google.com/file/d/1BNi3IwclCMadiMfxCgTqnr3yTNorBXUE/view?usp=sharing)
 ---
 
 ## 📄 About
