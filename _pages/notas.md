@@ -21,7 +21,7 @@ Here you can find my lecture notes, organized by subject. Most of them are in PT
 
 ### Math and Statistics
 
-- **K-means** [Notas de Aula](https://drive.google.com/file/d/10QK_eWd7O0WoHF7CjzS3t_R5RdQIe1LE/view?usp=drive_link)
+- **K-means** [Notas de Aula](https://drive.google.com/file/d/1easVf-O_rzHvEGi9npMbzEcVUWm-M8Oc/view?usp=sharing)
 
 ---
 
