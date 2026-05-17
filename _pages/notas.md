@@ -41,7 +41,13 @@ Here you can find my lecture notes, organized by subject. Most of them are in PT
 
 ### Mathematics
 
-- **Sequences and Arithmetic Progression** [Slides](https://drive.google.com/file/d/1m_0-yq9JxZZeLF-p80XlarlQWP5cQ9_q/view?usp=sharing) [Notas de Aula](https://drive.google.com/file/d/1xj_kJmB0WQ4_eFmZ8g07Q8pcs3KRGJ-d/view?usp=sharing)
+- **Sequências e Progressão Aritmética** [Slides](https://drive.google.com/file/d/1m_0-yq9JxZZeLF-p80XlarlQWP5cQ9_q/view?usp=sharing) [Notas de Aula](https://drive.google.com/file/d/1xj_kJmB0WQ4_eFmZ8g07Q8pcs3KRGJ-d/view?usp=sharing)
+
+---
+
+### Teaching
+
+- **Como Estudar e Preparar Materiais para a Sala de Aula** [Slides](https://drive.google.com/file/d/10ltoIXb2i8y5_GiiPGwp1SsKnGhrLoS9/view?usp=sharing)
 
 ---
 
